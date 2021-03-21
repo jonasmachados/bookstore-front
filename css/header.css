@@ -1,0 +1,16 @@
+.header{
+	background-color: #000000;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.h1Header{
+	color: #FFFFFF;
+	size: 1.5em;
+	padding-left: 1em;
+}
+.bookIcon{
+	height: 4em;
+	width: 4em;
+}
